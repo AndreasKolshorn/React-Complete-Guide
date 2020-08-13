@@ -8,7 +8,6 @@ const person = (props) => {    // convention use props
         <p>{props.children}</p>  
     </div> 
     )
-    
 }
 
 export default person

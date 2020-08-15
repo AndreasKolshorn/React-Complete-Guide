@@ -9,7 +9,7 @@ class App extends Component
       persons: [
         {name: 'Max', age: 28},
         {name: 'Manu', age: 29},
-        {name: 'Steph', age: 246}
+        {name: 'Steph', age: 16}
       ],
       otherState: 'Some other value'
     };
